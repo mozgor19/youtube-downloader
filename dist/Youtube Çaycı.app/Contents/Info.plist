@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Youtube Çaycı</string>
+	<key>CFBundleExecutable</key>
+	<string>main</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-f25236c564d097f7da4a9cdb13d886279aadf3dedf3f6055c576cc3f6fd7d4cf.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>Youtube Çaycı</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Youtube Çaycı</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>

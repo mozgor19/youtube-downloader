@@ -1,0 +1,3 @@
+([('main',
+   '/Users/mustafa/Desktop/Projects/YouTube Çaycı/dist/main',
+   'EXECUTABLE')],)
