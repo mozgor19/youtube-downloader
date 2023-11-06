@@ -9,8 +9,7 @@ With this application, you can download playlists or videos from YouTube.
 
 Download the files to your computer to run the application on your computer. For the application to run smoothly, you need to install the pytube and pyqt5 libraries if you don't have them. You can do this from the terminal screen as follows:
 
-`pip install pytube
-pip install pyqt5`
+`pip install pytube pyqt5`
 
 Apart from these, the libraries used come installed with Python 3. However, if you have a problem with this, you can look at the file named *import.py* to view the libraries used.
 
