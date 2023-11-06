@@ -31,12 +31,14 @@ After typing this command, two folders named **dist** and **build** and a file n
 
 It is very likely that the application will not run in the output obtained in this way. The main reason for this is that we are using libraries that Python does not include by default. For this reason, the main.spec file should be opened and the following should be written in the relevant sections:
 
-`datas = [('*file path of pytube library*','pytube'),('*file path of cacert.pem file*','certifi')],
-hiddenimports = ['json','xml.etree','xml.etree.ElementTree','html'],`
+`datas = [('*file path of pytube library*','pytube'),('*file path of cacert.pem file*','certifi')],`
+
+`hiddenimports = ['json','xml.etree','xml.etree.ElementTree','html'],`
 
 Also, to give the app a logo and a name, the relevant places can be edited as follows:
 
-`name ='Youtube Çaycı.app',
-icon ='tea.ico',`
+`name ='Youtube Çaycı.app',`
+
+`icon ='tea.ico',`
 
 The errors you get in these steps may vary depending on the Python version, filing structure and compiler on your computer. Therefore, it is recommended to use the latest version.
